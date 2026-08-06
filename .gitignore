@@ -4,6 +4,9 @@
 /build
 /tmp
 /coverage
+/.next
+/.idea
+/.next
 
 # Logs
 logs
